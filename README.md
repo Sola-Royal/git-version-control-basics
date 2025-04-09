@@ -1,35 +1,21 @@
 # git-version-control-basics
 ---
-# 1.mini_project for Tech-environment-setup
 
->**In this project, I am going to be installing tools and set up accounts**
-
-----
->TOOLS NEEDED TO BE INSTALLED
-
-1. Vsisual Studio code
-2. Git
-3. virtual Box
-4. ubuntu on Virtual box (Window)
-5. Mobaxterm
-
->ACCOUNT TO BE CREATED
-1. Github account
-2. Amazon Web Services (AWS) Account
+>**the project is about Git setup and implementation of these commands like `git checkout -b`, `git add`, `git commit`, `git push`, and `git merge` are executed directly in the terminal with git collabotation effectively**
 
 ----
-# **Visual Studio Code**
+# **Step 1: Initial Setup**
 
-_Visual Studio is installed on my laptop, this is the image of welcome home_
+_Git repository initiated_
 
-![Visual studio code](./img/1.%20vscode.jpg)
+![Git repository directory](./img/4%20git%20repository.jpg)
 
 
 -----
-# **Git**
+# **git checkout -b update-navigation**
 
-_Git is installed on my laptop with a proof of git bash on my local repository_
-![Git](./img/git%20version.jpg)
+_creates and switches to a new branch from Tom_
+![New branch from Tom](./img/git%20checout%20git%20checkout%20-b%20update-navigation.jpg)
 
 
 #  **Virtual Box**
