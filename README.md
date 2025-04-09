@@ -52,4 +52,4 @@ _Both push their branches to the central repository._
 _the request has been reviewd and approved_
 ![pull request and review](./img/Screenshot%202025-04-09%20075855.png)
 
-![Git](./img/6.github%20acc.jpg)
+>**the journey of version controla and collaboration was performed wirth hand on project in this work**
